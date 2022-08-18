@@ -13,6 +13,6 @@ Dans le fichier build.gradle, effectuez les configurations ci-dessous:
 ## Etape 3
 Créer un telephone virtuel (PIXEL 2 API 29)
 
-## ACCUEIL DE L4APPLICATION
+## ACCUEIL DE L'APPLICATION
   
  ![Capture1](https://user-images.githubusercontent.com/97252877/185245452-79f2af46-cee3-4998-ad81-f2c0a9d108f1.PNG)
