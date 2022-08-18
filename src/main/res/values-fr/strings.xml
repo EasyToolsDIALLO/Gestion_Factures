@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Gestion de Facture</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    //String relatives au list_items_model
+    <string name="numero">n° :</string>
+    <string name="price">prix :</string>
+    <string name="date"> date :</string>
+    <string name="type"> type :</string>
+    <string name="btnPayer">Payer</string>
+
+    //String relatives aux boutons de AjouterFActureActivity
+    <string name="save">Enregistrer</string>
+    <string name="cancel">Annuler</string>
+    <string name="head">FACTURE</string>
+
+    //Ancien projet
+    <string name="connection">Connexion</string>
+    <string name="login">Identifiant :</string>
+    <string name="password">Mot de passe :</string>
+    <string name="login_edit"> </string>
+    <string name="home">Accueil</string>
+    <string name="buyed_bills">Factures payees</string>
+    <string name="no_buyed_bills">Factures non payees</string>
+    <string name="saved_bills">Factures enregistrees</string>
+    <string name="help">Aide</string>
+    <string name="textview">TextView</string>
+    <string name="btn_connection">Se connecter</string>
+    <string name="btn_signup">Créer un compte</string>
+    <string name="error_fields">Required Fields</string>
+    <string name="settings">Parametres</string>
+    <string name="create">Creation de compte</string>
+    <string name="title_activity">Activity</string>
+    <string name="new_">Nouveau :</string>
+    <string name="confirm_password">Confirme :</string>
+    <string name="modify_compte">Modifier compte</string>
+    <string name="new_login">Nouveau Identifiant</string>
+    <string name="old_login">Ancien Identifiant</string>
+    <string name="factures_eau">Factures Eau</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_fact">Creer une facture</string>
+
+    <string name="delete">Supprimer</string>
+
+</resources>
